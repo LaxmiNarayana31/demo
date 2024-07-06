@@ -1,2 +1,2 @@
 ## Myntra UI clone using HTML & CSS
-![](Screenshot.png)
+![](Screenshot_image.png)
